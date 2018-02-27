@@ -1,0 +1,4 @@
+.project
+.classpath
+*.tar
+.DS_Store
